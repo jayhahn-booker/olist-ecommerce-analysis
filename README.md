@@ -59,3 +59,38 @@ percentage of 1-star ratings in the same group. This suggests a
 systemic product quality or delivery handling issue specific to 
 this category that is actively damaging customer satisfaction 
 and retention.
+
+## Strategic Recommendations
+Analysis across all four business domains produced the following 
+strategic priorities. First, Olist should implement a customer 
+loyalty program targeting the retention cliff between first and 
+second purchases, as losing 96.88% of customers after one order 
+is not sustainable at scale. Second, a seller fulfillment scorecard 
+should be introduced with minimum shipping time requirements to 
+address the direct link between late deliveries and customer 
+dissatisfaction. Third, a top seller retention program with 
+dedicated account management should be established given that 
+30 sellers control 25.67% of platform revenue. Finally, targeted 
+promotional campaigns during January and February would help 
+smooth the dramatic revenue seasonality driven by November 
+Black Friday demand.
+
+## Repository Structure
+- **sql/** — 15 SQL queries organized by business domain with 
+documented findings for each question
+- **python/** — Google Colab notebook containing enhanced analysis 
+using Pandas and NumPy across 5 key business questions
+- **visualizations/** — Screenshots of all Tableau visualizations 
+and link to the live interactive dashboard
+- **data/** — Data audit documentation and dataset overview
+
+## Tableau Dashboard
+View the interactive executive dashboard here:
+https://public.tableau.com/views/OlistEcommerceAnalysis_17807796251430/Dashboard1_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## How to Reproduce This Analysis
+1. Download the Olist dataset from Kaggle
+2. Import CSV files into DB Browser for SQLite
+3. Run SQL queries from the sql/ folder in order
+4. Open the Python notebook in Google Colab
+5. Connect to Tableau Public and import visualization data sources
