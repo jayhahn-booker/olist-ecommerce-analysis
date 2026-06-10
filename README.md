@@ -76,13 +76,13 @@ smooth the dramatic revenue seasonality driven by November
 Black Friday demand.
 
 ## Repository Structure
-- **sql/** — 15 SQL queries organized by business domain with 
+- **sql/** - 15 SQL queries organized by business domain with 
 documented findings for each question
-- **python/** — Google Colab notebook containing enhanced analysis 
+- **python/** - Google Colab notebook containing enhanced analysis 
 using Pandas and NumPy across 5 key business questions
-- **visualizations/** — Screenshots of all Tableau visualizations 
+- **visualizations/** - Screenshots of all Tableau visualizations 
 and link to the live interactive dashboard
-- **data/** — Data audit documentation and dataset overview
+- **data/** - Data audit documentation and dataset overview
 - **reports/** - Business Questions and Anwsers Report And Strategic Recommnedations Report
 
 ## Tableau Dashboard
