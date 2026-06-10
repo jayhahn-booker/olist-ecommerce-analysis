@@ -83,6 +83,7 @@ using Pandas and NumPy across 5 key business questions
 - **visualizations/** — Screenshots of all Tableau visualizations 
 and link to the live interactive dashboard
 - **data/** — Data audit documentation and dataset overview
+- **reports/** - Business Questions and Anwsers Report And Strategic Recommnedations Report
 
 ## Tableau Dashboard
 View the interactive executive dashboard here:
